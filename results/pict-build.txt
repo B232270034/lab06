@@ -2,3 +2,6 @@ pict commit ab76c25 2026-09-08
 Pairwise Independent Combinatorial Testing
 
 Usage: pict model [options]
+Usage: pict model [options]
+Pairwise: pict model
+Three-way: pict model /o:3
